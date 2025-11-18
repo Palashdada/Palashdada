@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Moshiwur Rahman 👋
 
-<!--
-**Palashdada/Palashdada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moshiwur-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![GitHub](https://img.shields.io/badge/GitHub-Moshiwur-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I am a **MERN Stack Developer** passionate about building **full-stack web applications**. I love crafting responsive, modern, and scalable web apps using the latest technologies.  
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Backend | Database | Others |
+| -------- | ------- | -------- | ------ |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) |
+
+---
+
+## 🚀 Currently Learning
+- ⚡ **Advanced TypeScript**  
+- ⚡ **Next.js full-stack development**  
+- ⚡ **Backend best practices**
+
+---
+
+## 📊 GitHub Stats
+![Moshiwur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 📂 Featured Projects
+
+| Project Name | Description | Link |
+| ------------ | ----------- | ---- |
+| 🌟 Project 1 | Short description here | [Live](#) |
+| 🌟 Project 2 | Short description here | [Live](#) |
+| 🌟 Project 3 | Short description here | [Live](#) |
+
+---
+
+⭐ Fun fact: I love building apps that **solve real-world problems** and exploring **new technologies** every day.
