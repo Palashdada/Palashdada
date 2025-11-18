@@ -42,9 +42,8 @@ I am a **MERN Stack Developer** passionate about building **full-stack web appli
 
 | Project Name | Description | Link |
 | ------------ | ----------- | ---- |
-| 🌟 Project 1 | Short description here | [Live](#) |
-| 🌟 Project 2 | Short description here | [Live](#) |
-| 🌟 Project 3 | Short description here | [Live](#) |
+| 🌟 Green-Earth | Short description here | [Live](https://palashdada.github.io/Green-Earth/) |
+
 
 ---
 
