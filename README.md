@@ -33,7 +33,7 @@ I am a **MERN Stack Developer** passionate about building **full-stack web appli
 ---
 
 ## 📊 GitHub Stats
-![Moshiwur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Moshiwur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palashdada&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
