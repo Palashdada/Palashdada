@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/xqy50R5N/coverphoto.png)
+![Banner](https://github.com/Palashdada/Palashdada/blob/main/Black%20White%20Typographic%20Personal%20Photo%20LinkedIn%20Background%20Photo.png?raw=true)
 
 
 
