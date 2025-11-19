@@ -8,8 +8,8 @@
 # Hi there, I'm Moshiwur Rahman 👋
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moshiwur-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-Moshiwur-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moshiwur-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palash-network-44a37b236/)
+[![GitHub](https://img.shields.io/badge/GitHub-Moshiwur-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palashdada)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio.com)
 
 ---
